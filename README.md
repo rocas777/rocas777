@@ -1,6 +1,6 @@
 ### Hi there, I'm Miguel Pinto ![](https://visitor-badge.glitch.me/badge?page_id=rocas777.rocas777)
 
-💻 MSc in Informatics and Computing Engineering (year 4/5) @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) 
+💻 MSc in Informatics and Computing Engineering (year 5/5) @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) 
 
 📈 **My GitHub Stats:**
 <p>
